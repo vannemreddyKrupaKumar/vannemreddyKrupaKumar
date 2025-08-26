@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vannemreddyKrupaKumar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Developing products
 - 📫 How to reach me: vannemreddykrupakumar18288@gmail.com
 
 <!---
